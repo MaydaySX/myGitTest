@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-测试文件上传
-测试回滚
-=======
->>>>>>> parent of 849088e... Update test.txt
-=======
->>>>>>> parent of 849088e... Update test.txt
